@@ -6,7 +6,7 @@
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VilleSavolainen1&layout=compact&langs_count=10&bg_color=151515&title_color=ffffff&text_color=ffffff&border_color=6e6d6d)|
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VilleSavolainen1&layout=compact&langs_count=10&bg_color=151515&title_color=ffffff&text_color=ffffff&border_color=6e6d6d)
 <!--
 **VilleSavolainen1/VilleSavolainen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
