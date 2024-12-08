@@ -8,4 +8,4 @@
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VilleSavolainen1&layout=compact&langs_count=8&theme=synthwave)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VilleSavolainen1&layout=compact&langs_count=8&theme=radical)
